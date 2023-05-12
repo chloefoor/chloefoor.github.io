@@ -4,10 +4,10 @@ import './index.css';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-import BadgerApp from './components/structural/BadgerApp';
+import App from './components/structural/App';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-    <BadgerApp />
+    <App />
 );
