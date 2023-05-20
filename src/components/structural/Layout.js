@@ -6,7 +6,7 @@ function Layout(props) {
 
     return (
         <div>
-            <Navbar bg="dark" variant="dark">
+            <Navbar bg="primary" variant="dark">
                 <Container>
                     <Navbar.Brand as={Link} to="/">
 
@@ -17,7 +17,7 @@ function Layout(props) {
 
                         <Nav.Link as={Link} to="/thesis">My Thesis</Nav.Link>
 
-                        <Nav.Link as={Link} to="/awardshonors">Awards and honors</Nav.Link>
+                        <Nav.Link as={Link} to="/awardshonors">Awards & Honors</Nav.Link>
 
                         <NavDropdown title="School Work">
 

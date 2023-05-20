@@ -8,10 +8,20 @@ code {
     monospace;
 }
 
+img {
+  margin: 10px;
+}
+
 .body-spacer {
   margin: 1rem;
 }
 
-.h1 {
-  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+.footer {
+  position: fixed;
+  bottom: 0;
+  background-color: white;
+}
+
+.main {
+  padding-bottom: 30px
 }
