@@ -5,7 +5,6 @@ import Home from '../pages/Home';
 import Thesis from '../pages/Thesis';
 import AwardsHonors from '../pages/AwardsHonors';
 
-import Overview from '../pages/schoolwork/Overview';
 import History from '../pages/schoolwork/History';
 import CSIS from '../pages/schoolwork/CSIS';
 import Involvement from '../pages/schoolwork/Involvement';
@@ -29,7 +28,6 @@ function App() {
             <Route path="/thesis" element={<Thesis />}></Route>
             <Route path="/awardshonors" element={<AwardsHonors />}></Route>
 
-            <Route path="/schoolwork/overview" element={<Overview />}></Route>
             <Route path="/schoolwork/history" element={<History />}></Route>
             <Route path="/schoolwork/computerinfoscience" element={<CSIS />}></Route>
             <Route path="/schoolwork/involvement" element={<Involvement />}></Route>

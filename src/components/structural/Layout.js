@@ -21,7 +21,6 @@ function Layout(props) {
 
                         <NavDropdown title="School Work">
 
-                            <NavDropdown.Item as={Link} to={`/schoolwork/overview`}>Overview</NavDropdown.Item>
                             <NavDropdown.Item as={Link} to={`/schoolwork/history`}>History</NavDropdown.Item>
                             <NavDropdown.Item as={Link} to={`/schoolwork/computerinfoscience`}>Computer & Information Science</NavDropdown.Item>
                             <NavDropdown.Item as={Link} to={`/schoolwork/involvement`}>Involvement</NavDropdown.Item>
