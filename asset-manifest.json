@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6f9ca68f.css",
+    "main.js": "/static/js/main.10abbeb9.js",
+    "static/media/hilldaleceremony.JPG": "/static/media/hilldaleceremony.633bd65f52b933c2b185.JPG",
+    "static/media/patprogram.JPG": "/static/media/patprogram.19fe97a192731cf2f1cf.JPG",
+    "static/media/patsymposium.JPG": "/static/media/patsymposium.faa2e2b4ed4c2ca4130f.JPG",
+    "static/media/lakechloe.jpg": "/static/media/lakechloe.888f7d3a3aa413b6f7d4.jpg",
+    "index.html": "/index.html",
+    "main.6f9ca68f.css.map": "/static/css/main.6f9ca68f.css.map",
+    "main.10abbeb9.js.map": "/static/js/main.10abbeb9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f9ca68f.css",
+    "static/js/main.10abbeb9.js"
+  ]
+}
