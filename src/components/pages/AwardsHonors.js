@@ -9,14 +9,15 @@ export default function AwardsHonors (){
             <img src={hilldalepic} alt="Hilldale Award Ceremony" width='30%'/>
             
             <p>
-                In anticipation of my senior honor's thesis in history, I have been awarded the prestegious Hilldale Undergraduate 
-                Research Fellowship.
+                In anticipation of my senior honor's thesis in history, I have been awarded the prestegious <b>Hilldale Undergraduate 
+                Research Fellowship</b>.
             </p>
             <p>
-                I have also been awarded a Senior Thesis Summer Research Grant through the Honor's program at UW-Madison for my senior honor's thesis.
+                I have also been awarded the <b>Senior Thesis Summer Research Grant</b> through the Honor's program at UW-Madison for my senior honor's thesis.
             </p>
             <p>
-                Outside of these thesis-specific awards, I was awarded the Thomas W. Parker Scholarship in 2021 and the Jay C. Halls Scholarship in 2023.
+                Outside of these thesis-specific awards, I was awarded the <b>Thomas W. Parker Scholarship</b> in 2021 and the <b>Jay C. Halls Scholarship</b> in 2023, both of which 
+                recognize general scholastic excellence, especially in the liberal arts.
             </p>
 
             <h2>History Department Awards</h2>
@@ -26,19 +27,19 @@ export default function AwardsHonors (){
                 I have been awarded with the following prizes:
                 <ul>
                     <li>
-                        The 2023 Civil Resistance Prize for my paper on combating Catholic hegemony in the Phillippines through Folk Catholicism, posted on 
+                        The 2023 <b>Civil Resistance Prize</b> for my paper on combating Catholic hegemony in the Phillippines through Folk Catholicism, posted on 
                         The Nonviolence Project website <a href="https://thenonviolenceproject.wisc.edu/2023/05/22/deconstructing-folk-catholicism/">here.</a>
                     </li>
                     <li>
-                        The 2022 William F. Allen Prize for my paper on the alleged atheism of Christopher Marlowe examined through his play <i>Doctor Faustus</i>.
+                        The 2022 <b>William F. Allen Prize</b> for my paper on the alleged atheism of Christopher Marlowe examined through his play <i>Doctor Faustus</i>.
                     </li>
                 </ul>
             </p>
 
             <h3>Scholarships</h3>
             <p>
-                The History Department also gives out scholarships to outstanding history majors. In 2023, I was presented with the Orson S. Morse Scholarship after 
-                being nominated by Dr. Marcella Hayes. I was also awarded the Department of History Summer Internship Funding for my internship at the Dane County Historical Society.
+                The History Department also gives out scholarships to outstanding history majors. In 2023, I was presented with the <b>Orson S. Morse Scholarship</b> after 
+                being nominated by Dr. Marcella Hayes. I was also awarded the <b>Department of History Summer Internship Funding</b> for my internship at the Dane County Historical Society.
             </p>
 
 
