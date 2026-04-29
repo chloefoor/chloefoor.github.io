@@ -7,9 +7,8 @@ disqus:
 google-ID: '-1'
 
 menu:
-- {name: 'About',   url: 'about.html'}
 - {name: 'Research', url: 'research.html'}
-- {name: 'Digital and Public History', url: 'dhph.html'}
+- {name: 'Digital and Public History', url: 'digitalpublichistory.html'}
 - {name: 'Contact', url: 'contact.html'}
 - {name: 'CV', url: 'cv.html'}
 
