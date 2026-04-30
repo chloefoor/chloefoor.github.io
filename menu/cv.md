@@ -2,6 +2,7 @@
 layout: page
 title: CV
 permalink: /cv
+image: Foor_CV_April26.pdf
 ---
 
-Coming soon!
+Below is my CV, last updated April 2026.

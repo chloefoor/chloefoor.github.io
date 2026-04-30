@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Digital and Public History
-permalink: /dhph
+permalink: /digitalpublichistory
 ---
 
 Coming soon!
