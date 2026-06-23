@@ -9,6 +9,7 @@ google-ID: '-1'
 menu:
 - {name: 'Research', url: 'research.html'}
 - {name: 'Digital and Public History', url: 'digitalpublichistory.html'}
+- {name: 'Teaching', url: 'teaching.html'}
 - {name: 'Contact', url: 'contact.html'}
 - {name: 'CV', url: 'cv.html'}
 
