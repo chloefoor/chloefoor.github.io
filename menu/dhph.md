@@ -16,6 +16,6 @@ permalink: /digitalpublichistory
 <p>Digital tools are also one way that I have enhanced my <a href="chloefoor.github.io/teaching.html">teaching</a> pedagogy.
 <ul>
 <li><a href="https://bbnana58.itch.io/love-healing-and-other-crimes">Love, Healing, and Other Crimes</a> - a history-based video game designed to teach students about the witchcraft trials during the Inquisition in Cartagena de Indias.</li>
-<li><a href="virtualangkor.com">Virtual Angkor</a> - a 3D recreation of Angkor during its heyday, allowing students to immerse themselves in history.</li>
+<li><a href="https://virtualangkor.com">Virtual Angkor</a> - a 3D recreation of Angkor during its heyday, allowing students to immerse themselves in history.</li>
 </ul>
 </p>
